@@ -11,7 +11,7 @@ var source = {
     host: "localhost",
     user: "root",
     password: "Frogger123",
-    database: " "
+    database: "couchpotatodb "
   }
 };
 
