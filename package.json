@@ -13,9 +13,10 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "express": "^4.16.3",
     "mysql": "^2.15.0",
     "mysql2": "^1.5.3",
+    "npm": "^5.8.0",
     "sequelize": "^4.37.6"
   }
 }
