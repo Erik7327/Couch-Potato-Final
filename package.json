@@ -9,14 +9,28 @@
     "watch": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Han",
   "license": "ISC",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.2",
+    "dotenv": "^5.0.1",
     "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
     "mysql": "^2.15.0",
     "mysql2": "^1.5.3",
     "npm": "^5.8.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
     "sequelize": "^4.37.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik7327/Couch-Potato-Final.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Erik7327/Couch-Potato-Final/issues"
+  },
+  "homepage": "https://github.com/Erik7327/Couch-Potato-Final#readme"
 }
